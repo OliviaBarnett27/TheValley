@@ -1,0 +1,13 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Documents/FOGD_240524_1/Content/Systems/UI/WBP_PlayerHUD.uasset",
+				"C:/Documents/FOGD_240524_1/Content/Systems/UI/WBP_SpeechBubble.uasset"
+			]
+		}
+	]
+}
